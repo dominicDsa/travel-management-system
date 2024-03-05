@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View className="flex-1 justify-center items-center bg-black">
-      <Text className="text-white">Dominic Khankichele</Text>
+      <Text className="text-white">hello</Text>
       <StatusBar style="auto" />
     </View>
   );
